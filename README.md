@@ -9,13 +9,11 @@ I am an Application Development Analyst at Accenture and a graduate from General
 
 Thank you for visiting my page!
 
-<center>
-
-#### <b>CONTACT</b>
+<p align="center">
 <br>
 <a href=https://www.linkedin.com/in/salimaharun/><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white style="width: 80px;"></a><a href=https://salima.netlify.app><img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white style="width: 75px;"></a><a href=mailto:salima.harun@gmail.com><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="width: 65px;"></a>
 <br>
 <br>
 <img src=https://github-readme-stats.vercel.app/api?username=nerasan&show_icons=true&count_private=true&theme=dark width="350">
 
-</center>
+</p>
